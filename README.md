@@ -4,4 +4,4 @@
 4. go to render and select new web service --> deploy public github repository  (ඊටපස්සෙ render එකට ගිහිම් deploy with public url එකට ගිහිම් ඒකෙන් deploy කරගන්න)
 
 (තේරෙන්නෙ නැත්තම් මේ video එක බලන්න මුල ඉදලම කියලා දෙනවා) 
-more details and help - youtube.com/example.video
+more details and help - [Watch Youtube Video](https://youtu.be/sYzRaR1yF98)
