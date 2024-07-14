@@ -5,3 +5,9 @@
 
 (තේරෙන්නෙ නැත්තම් මේ video එක බලන්න මුල ඉදලම කියලා දෙනවා) 
 more details and help - [Watch Youtube Video](https://youtu.be/sYzRaR1yF98)
+
+
+# [Render](https://render.com)
+
+# [Scalingo](https://scalingo.com)
+
