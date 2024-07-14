@@ -7,7 +7,7 @@
 more details and help - [Watch Youtube Video](https://youtu.be/sYzRaR1yF98)
 
 
-# [Render](https://render.com)
+# [Render](https://render.com)   [Render Deploy Video](https://youtu.be/sYzRaR1yF98) 
 
-# [Scalingo](https://scalingo.com)
+# [Scalingo](https://scalingo.com)   [Scalingo Deploy Video](example.com)
 
