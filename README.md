@@ -3,8 +3,7 @@
 3. after copy link ,you forked repository (ඊටපස්සෙ ඒ fork එකෙ link එක කොපිකරගන්න)
 4. go to render and select new web service --> deploy public github repository  (ඊටපස්සෙ render එකට ගිහිම් deploy with public url එකට ගිහිම් ඒකෙන් deploy කරගන්න)
 
-(තේරෙන්නෙ නැත්තම් මේ video එක බලන්න මුල ඉදලම කියලා දෙනවා) 
-more details and help - [Watch Youtube Video](https://youtu.be/sYzRaR1yF98)
+
 
 
 # [Render](https://render.com)  
